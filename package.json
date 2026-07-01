@@ -6,10 +6,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#wwebjs-v1.23.1-beta.0",
+    "whatsapp-web.js": "^1.23.1",
     "node-telegram-bot-api": "^0.64.0",
     "node-fetch": "^2.6.7",
     "dotenv": "^16.0.0"
   }
 }
-
