@@ -9,6 +9,7 @@
     "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#wwebjs-v1.23.1-beta.0",
     "node-telegram-bot-api": "^0.64.0",
     "node-fetch": "^2.6.7",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "puppeteer": "^21.0.0"
   }
 }
