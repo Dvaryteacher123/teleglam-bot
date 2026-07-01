@@ -1,0 +1,14 @@
+{
+  "name": "dvary-ai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#wwebjs-v1.23.1-beta.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.0.0"
+  }
+}
